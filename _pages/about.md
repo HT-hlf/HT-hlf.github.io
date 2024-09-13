@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Chongqing University](https://www.cqu.edu.cn/). My research interest includes terrain traversability analysis, field environment perception (elevation mapping), and object detection.
+I'm currently pursuing my master's degree in Engineering at [Chongqing University](https://www.cqu.edu.cn/) and I am expected to obtain the degree by May 2025. My research interest includes terrain traversability analysis, field environment perception (elevation mapping), and object detection.
 
 A data-driven personal website
 ======
