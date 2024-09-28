@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm currently pursuing my master's degree in Engineering at [Chongqing University](https://www.cqu.edu.cn/), and I am expected to obtain the degree by May 2025. My research interest includes terrain traversability analysis, field environment perception (elevation mapping), and object detection.
+Hi. I'm currently pursuing my master's degree in Engineering at **Chongqing University**. My research interest includes **terrain traversability analysis**, **field environment perception (elevation mapping)**, and **object detection**.
 
 A data-driven personal website
 ======
